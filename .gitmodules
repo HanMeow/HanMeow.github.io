@@ -1,3 +1,6 @@
 [submodule "useless"]
 	path = useless
 	url = https://github.com/HanMeow/useless
+[submodule "sounds"]
+	path = sounds
+	url = https://github.com/HanMeow/bubble-sounds
